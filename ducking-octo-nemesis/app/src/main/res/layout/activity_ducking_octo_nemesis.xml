@@ -27,6 +27,11 @@
                 android:layout_weight="1" android:text="@string/dummy_button" />
 
         </LinearLayout>
+
+        <RadioGroup
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center"></RadioGroup>
     </FrameLayout>
 
 </FrameLayout>
